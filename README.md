@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beanladder
 - 👀 I’m interested in Game Design and Development, also How AI can change the way we play video games
-- 🌱 I’m currently learning Unreal Engine 5 and C++
+- 🌱 I’m currently learning Unreal Engine 5 and Blender
 - 💞️ I’m looking to collaborate on new and innovative Games.
 - 📫 How to reach me - 1. Drop a mail at angshuchatterjee.official@gmail.com or connect with me at LinkedIn : https://www.linkedin.com/in/angshu-chatterjee-772993234/
 - 😄 Pronouns: bat/man
